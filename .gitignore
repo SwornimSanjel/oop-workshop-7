@@ -1,3 +1,10 @@
 .metadata/
 w7/bin/
 *.class
+# Eclipse project files
+w7/.classpath
+w7/.project
+w7/.settings/
+
+# Optional: ignore Java module file if not required
+w7/src/module-info.java
